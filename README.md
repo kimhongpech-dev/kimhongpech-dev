@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## ⛏️ My GitHub Profile
+
+[![Profile Card](https://avatars.githubusercontent.com/u/254046986?v=4)](https://github.com/kimhongpech-dev)
+
+> Check out my [interactive profile card](https://github.com/kimhongpech-dev) – it’s fully themed Intersting!
 
