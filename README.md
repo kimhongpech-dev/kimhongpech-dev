@@ -52,7 +52,6 @@ Here are some ideas to get you started:
 
 <!-- Zoro Banner -->
 <div align="center">
-  <img src="https://media.tenor.com/5o2g5l5qk5oAAAAC/one-piece-zoro.gif" width="120" alt="Zoro animated" />
   <h1>⚔️ Roronoa Zoro · 三刀流</h1>
   <p>
     <img src="https://img.shields.io/badge/Pirate%20Hunter-FFD700?style=for-the-badge&logo=one-piece&logoColor=black" />
