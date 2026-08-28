@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🎒 Inventory
+## Knowledge Basic
 
 | React | Node.js | Python | Java |
 |-------|---------|--------|------|
