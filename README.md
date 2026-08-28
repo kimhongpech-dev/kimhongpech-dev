@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## ⛏️ My GitHub Profile
 
-[![Profile Card](https://avatars.githubusercontent.com/u/254046986?v=4)](https://github.com/kimhongpech-dev)
+[![Profile Card](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J6MGVzNTE2OHc1MGt5MGIyOHZvNmJqd3psc3poYWVkZWduNmVsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q8ld8Sk7WWyY0/giphy.gif)](https://github.com/kimhongpech-dev)
 
 > Check out my [interactive profile card](https://github.com/kimhongpech-dev) – it’s fully themed Intersting!
 
