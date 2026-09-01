@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 | ⭐ Stars | 🍴 Forks | 👥 Followers | 📦 Repos |
 |---------|---------|-------------|---------|
-| 0      | 0      | 1          | 3       |
+| 0      | 0      | 2          | 3       |
 
 ---
 
