@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/43fc9f8a-e9d1-42f5-85ad-6836c7ab2486" />
+
 ## ⛏️ My GitHub Profile
 
 > Check out my [interactive profile card](https://github.com/kimhongpech-dev) – it’s fully themed Intersting!
