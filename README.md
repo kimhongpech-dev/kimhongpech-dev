@@ -1,4 +1,4 @@
-<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/43fc9f8a-e9d1-42f5-85ad-6836c7ab2486" /><!--**kimhongpech-dev/kimhongpech-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**kimhongpech-dev/kimhongpech-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/43fc9f8a-e9d1-42f5-85ad-6836c7ab2486" />
 ## ⛏️ My GitHub Profile
 
 [![Profile Card](<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/e85eba40-387e-4c43-9da4-cc57b06dbafb" />
