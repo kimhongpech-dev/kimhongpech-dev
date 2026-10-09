@@ -1,6 +1,4 @@
-<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/43fc9f8a-e9d1-42f5-85ad-6836c7ab2486" />
-<!--
-**kimhongpech-dev/kimhongpech-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/43fc9f8a-e9d1-42f5-85ad-6836c7ab2486" /><!--**kimhongpech-dev/kimhongpech-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
