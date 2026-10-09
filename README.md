@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/43fc9f8a-e9d1-42f5-85ad-6836c7ab2486" />
 ## ⛏️ My GitHub Profile
 
-[![Profile Card](<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/e85eba40-387e-4c43-9da4-cc57b06dbafb" />
-)](https://github.com/kimhongpech-dev)
-
 > Check out my [interactive profile card](https://github.com/kimhongpech-dev) – it’s fully themed Intersting!
 
 # ⛏️ Crafting Profile
