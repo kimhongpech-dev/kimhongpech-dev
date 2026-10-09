@@ -1,4 +1,4 @@
-<!--
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/43fc9f8a-e9d1-42f5-85ad-6836c7ab2486" /><!--
 **kimhongpech-dev/kimhongpech-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 ## ⛏️ My GitHub Profile
 
-[![Profile Card](https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif)](https://github.com/kimhongpech-dev)
+[![Profile Card](<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/e85eba40-387e-4c43-9da4-cc57b06dbafb" />
+)](https://github.com/kimhongpech-dev)
 
 > Check out my [interactive profile card](https://github.com/kimhongpech-dev) – it’s fully themed Intersting!
 
